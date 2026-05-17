@@ -1,16 +1,41 @@
-## Hi there 👋
+ portfolioHUB
 
-<!--
-**camposz2/camposz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu portfólio digital! Este espaço foi criado para apresentar minha trajetória acadêmica e profissional, além dos projetos que venho desenvolvendo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Perfil Pessoal
+ 
+
+**Biografia:**
+Olá! Sou arthur campos silveira, um estudante de tecnologia e desenvolvimento. Busco sempre aprender novas ferramentas e resolver problemas reais através da programação e análise de dados. Este portfólio reflete meu aprendizado e evolução contínua.
+
+Contato:
+  E-mail:arthurtuk900@gmail.com
+  LinkedIn:
+  GitHub:https://github.com/camposz2
+
+
+
+ Currículo
+
+Formação Acadêmica
+curso: ciencia de dados - ceub, taguatinga.
+
+
+Idiomas
+Português:Nativo
+Inglês:Intermediário
+
+
+ 3. Projetos Acadêmicos e Profissionais
+
+Abaixo estão alguns dos projetos desenvolvidos no Google Colab, demonstrando minhas habilidades em programação e análise:
+
+https://colab.research.google.com/drive/1AWOCFIDNi_6f43FnhioTJqf8sNV4EEaN?authuser=1
+
+## 🛠️ 4. Habilidades e Competências
+
+Linguagens e Ferramentas: Python, Git, GitHub, Google Colab.
+Competências Técnicas: Análise de Dados, Lógica de Programação,
+Soft Skills: Resolução de problemas, trabalho em equipe, aprendizado contínuo.
