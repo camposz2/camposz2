@@ -36,6 +36,6 @@ https://colab.research.google.com/drive/1AWOCFIDNi_6f43FnhioTJqf8sNV4EEaN?authus
 
 ## 🛠️ 4. Habilidades e Competências
 
-Linguagens e Ferramentas: Python, Git, GitHub, Google Colab.
+Linguagens e Ferramentas: Python, Git, GitHub, pandas, SQL, MySQL, Power Bi.
 Competências Técnicas: Análise de Dados, Lógica de Programação,
 Soft Skills: Resolução de problemas, trabalho em equipe, aprendizado contínuo.
