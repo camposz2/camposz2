@@ -19,23 +19,20 @@ Contato:
 
  Currículo
 
-Formação Acadêmica
-curso: ciencia de dados - ceub, taguatinga.
-
-
-Idiomas
-Português:Nativo
-Inglês:Intermediário
-
-
- 3. Projetos Acadêmicos e Profissionais
-
-Abaixo estão alguns dos projetos desenvolvidos no Google Colab, demonstrando minhas habilidades em programação e análise:
-
-https://colab.research.google.com/drive/1AWOCFIDNi_6f43FnhioTJqf8sNV4EEaN?authuser=1
-
-## 🛠️ 4. Habilidades e Competências
-
-Linguagens e Ferramentas: Python, Git, GitHub, pandas, SQL, MySQL, Power Bi.
-Competências Técnicas: Análise de Dados, Lógica de Programação,
-Soft Skills: Resolução de problemas, trabalho em equipe, aprendizado contínuo.
+Arthur Campos Silveira, 19 anos 
+Estagiário em Dados e TI | Python | SQL | MySQL | Power BI 
+Vicente Pires, Brasília, DF | (61) 99122-3627 | arthurtuk900@gmail.com 
+Sobre 
+Estudante do 2º semestre de Ciência de Dados e Machine Learning no CEUB 
+Taguatinga, buscando a primeira oportunidade de estágio em desenvolvimento de 
+sistemas, banco de dados, análise de dados ou inteligência artificial. Foco em 
+aprendizado contínuo para agregar valor real aos projetos da equipe. 
+Conhecimentos 
+Linguagens e Dados: Python, Pandas, SQL, MySQL. 
+Ferramentas e Versionamento: Power BI, Git, GitHub. 
+Idiomas: Inglês intermediário (B1) para leitura, escrita e conversação. 
+Educação 
+Ciência de Dados e Machine Learning 
+CEUB (Campus Taguatinga) — Cursando o 2º semestre (Início: Janeiro/2026) 
+● Foco acadêmico em Python, SQL, MySQL, Power BI, Álgebra Linear e 
+Engenharia de Software. 
