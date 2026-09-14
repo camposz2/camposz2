@@ -1,38 +1,24 @@
- portfolioHUB
+# Arthur Campos Silveira
+**Estudante de Ciência de Dados & Machine Learning | Em busca de estágio em Dados e TI**
 
-Bem-vindo ao meu portfólio digital! Este espaço foi criado para apresentar minha trajetória acadêmica e profissional, além dos projetos que venho desenvolvendo.
+Olá! Sou um estudante de tecnologia focado em aprender ferramentas práticas para resolver problemas reais através da programação e análise de dados. Este espaço reflete minha evolução técnica e os projetos que venho desenvolvendo ao longo da graduação.
 
----
+##  Conhecimentos e Tecnologias
+* **Linguagens e Dados:** Python (Pandas), SQL, MySQL
+* **Ferramentas e Versionamento:** Power BI, Git, GitHub
+* **Idiomas:** Inglês intermediário (B1) - Leitura, escrita e conversação
 
- Perfil Pessoal
- 
+##  Educação
+**Centro Universitário de Brasília (CEUB) - Campus Taguatinga**
+* Ciência de Dados e Machine Learning (2º semestre)
+* Foco acadêmico em desenvolvimento em Python, modelagem de banco de dados (SQL) e Power BI.
 
-**Biografia:**
-Olá! Sou arthur campos silveira, um estudante de tecnologia e desenvolvimento. Busco sempre aprender novas ferramentas e resolver problemas reais através da programação e análise de dados. Este portfólio reflete meu aprendizado e evolução contínua.
+##  Projetos em Destaque
 
-Contato:
-  E-mail:arthurtuk900@gmail.com
-  LinkedIn:
-  GitHub:https://github.com/camposz2
+* **[Análise de Dados - Fluxo de Academia](https://github.com/camposz2/NOME-DO-REPOSITORIO)** 
+Projeto prático construído do zero focado na estruturação e análise de dados. Utilizei Python para gerar uma base de dados realista de alunos e acessos, modelei o banco relacional no MySQL e extraí indicadores de negócio através de consultas SQL.
 
-
-
- Currículo
-
-Arthur Campos Silveira, 19 anos 
-Estagiário em Dados e TI | Python | SQL | MySQL | Power BI 
-Vicente Pires, Brasília, DF | (61) 99122-3627 | arthurtuk900@gmail.com 
-Sobre 
-Estudante do 2º semestre de Ciência de Dados e Machine Learning no CEUB 
-Taguatinga, buscando a primeira oportunidade de estágio em desenvolvimento de 
-sistemas, banco de dados, análise de dados ou inteligência artificial. Foco em 
-aprendizado contínuo para agregar valor real aos projetos da equipe. 
-Conhecimentos 
-Linguagens e Dados: Python, Pandas, SQL, MySQL. 
-Ferramentas e Versionamento: Power BI, Git, GitHub. 
-Idiomas: Inglês intermediário (B1) para leitura, escrita e conversação. 
-Educação 
-Ciência de Dados e Machine Learning 
-CEUB (Campus Taguatinga) — Cursando o 2º semestre (Início: Janeiro/2026) 
-● Foco acadêmico em Python, SQL, MySQL, Power BI, Álgebra Linear e 
-Engenharia de Software. 
+##  Contato
+* **E-mail:** arthurtuk900@gmail.com
+* **GitHub:** [camposz2](https://github.com/camposz2)
+* **LinkedIn:** [Insira o link do seu LinkedIn aqui]
