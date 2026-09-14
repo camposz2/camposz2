@@ -15,7 +15,7 @@ Olá! Sou um estudante de tecnologia focado em aprender ferramentas práticas pa
 
 ##  Projetos em Destaque
 
-* **[Análise de Dados - Fluxo de Academia]([https://github.com/camposz2/NOME-DO-REPOSITORIO](https://github.com/camposz2/projeto_academia))** 
+* **[Análise de Dados - Fluxo de Academia]((https://github.com/camposz2/projeto_academia))** 
 Projeto prático construído do zero focado na estruturação e análise de dados. Utilizei Python para gerar uma base de dados realista de alunos e acessos, modelei o banco relacional no MySQL e extraí indicadores de negócio através de consultas SQL.
 
 ##  Contato
