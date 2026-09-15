@@ -21,4 +21,4 @@ Projeto prático construído do zero focado na estruturação e análise de dado
 ##  Contato
 * **E-mail:** arthurtuk900@gmail.com
 * **GitHub:** [camposz2](https://github.com/camposz2)
-* **LinkedIn:** [Insira o link do seu LinkedIn aqui] e colocar o git no curriculo
+* **LinkedIn:** [https://www.linkedin.com/in/arthur-campos-silveira-485399434/] e colocar o git no curriculo
